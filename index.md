@@ -14,8 +14,6 @@ Cette carte représente la liste des principaux établissement d'enseignements s
 
 <iframe frameborder="0 » width="800 » height="600 » src= »https://data.opendatasoft.com/map/embed/etablissement_enseignement_superieur/?&static=false&scrollWheelZoom=false"></iframe>
 
-
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
